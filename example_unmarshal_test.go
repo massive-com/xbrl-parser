@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"fmt"
 
-	"github.com/polygon-io/xbrl-parser"
+	"github.com/massive-com/xbrl-parser/v2"
 )
 
 const doc = `<xbrl>

@@ -1,4 +1,4 @@
-module github.com/polygon-io/xbrl-parser
+module github.com/massive-com/xbrl-parser/v2
 
 go 1.16
 
