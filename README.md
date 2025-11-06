@@ -1,6 +1,6 @@
 # xbrl-parser
 
-[![GoDoc](https://godoc.org/github.com/polygon-io/xbrl-parser?status.svg)](https://godoc.org/github.com/polygon-io/xbrl-parser)
+[![GoDoc](https://godoc.org/github.com/massive-com/xbrl-parser/v2?status.svg)](https://godoc.org/github.com/massive-com/xbrl-parser/v2)
 
 A Go library to parse xbrl documents into their facts, contexts, and units.
 
